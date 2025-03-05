@@ -5,6 +5,10 @@ Blockchain-based cross-border transactions are highly vulnerable to fraud due to
 Proposed solution using AWS services:
 AwsLambda, AwsDynamoDb, Quicksight,S3 Glue,Ec2 and SES.
 
+Crisp - DM Diagram :
+![Crisp DM](https://github.com/user-attachments/assets/c745e3dc-97a8-4237-bef9-d9b5e35b8697)
+
 Architecture Diagram:
 
 ![Architecture](https://github.com/user-attachments/assets/53db7a2e-62d7-4c0d-8e57-ed9a015ee994)
+
